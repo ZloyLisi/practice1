@@ -56,4 +56,10 @@ fun main(args: Array<String>) {
 
     exercisesSolved =+ exercisesSolved + 1
 
+    //задание 10
+    val fahrenheit = 90.0
+    val celcius =  (fahrenheit - 32)/1.8
+
+    exercisesSolved =+ exercisesSolved + 1
+
 }
