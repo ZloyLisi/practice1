@@ -38,9 +38,11 @@ fun main(args: Array<String>) {
     exercisesSolved = exercisesSolved + 1
 
     //задание 7
-    val answer1: Int = (46*100)+10
-    val answer2: Int = (46*100)+(10*100)
-    val answer3: Int = (46*100)-(10/10)
+    val a: Int = 46
+    val b: Int = 10
+    val answer1: Int = (a*100)+b
+    val answer2: Int = (a*100)+(b*100)
+    val answer3: Int = (a*100)-(b/10)
 
     exercisesSolved = exercisesSolved + 1
 
